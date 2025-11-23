@@ -1,5 +1,5 @@
-# BCD-to-7-Segment-Display-Controller-Project1
-# BCD to 7-Segment Display Controller – Project Report
+# BCD-to-7-Segment-Display-Controller-Project
+
 1. Introduction
 A 7‑segment display is commonly used to show decimal digits in digital systems.  
 The BCD-to-7‑segment decoder converts a 4‑bit binary-coded decimal input into a pattern that lights up the correct segments.
